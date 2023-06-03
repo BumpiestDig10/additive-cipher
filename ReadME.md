@@ -46,10 +46,6 @@ To decrypt a Caesar cipher, you simply shift the letters in the opposite directi
 
 > Password: lmno
 
-> Username: hijk
-
-> Password: lmno
-
 #
 
 > Clone the repository : git clone https://github.com/BumpiestDig10/additive-cipher.git
