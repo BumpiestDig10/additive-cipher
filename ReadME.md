@@ -13,18 +13,42 @@ In this example, each letter in the plaintext is shifted three positions to the 
 
 To decrypt a Caesar cipher, you simply shift the letters in the opposite direction. If the shift was 3 to the right, you would shift 3 to the left to recover the original plaintext.
 
-## Screenshots
-- Encryption
+## Examples
+<b> Encryption </b>
 
-> ![Encrypt](encrypt.png)
+> Type the plain text to encrypt: HELLO
 
-- Decryption
+> Enter the key: 3
 
-> ![Decrypt](decrypt.png)
+> Plain Text: HELLO
 
-- Final (Default key = 7. It also generates a .txt file containing all the usernames and passwords in the encrypted form.)
+> Encrypted Text: KHOOR
 
-> ![Final](final.png)
+<b> Decryption </b>
+
+> Type the Encrypted text to decrypt: KHOOR
+
+> Enter the key: 3
+
+> Encrypted Text : KHOOR
+
+> Decrypted Text : HELLO
+
+<b> Final </b> (Default key = 7. It also generates a .txt file containing all the usernames and passwords in the encrypted form.)
+
+> Enter username: abcd
+
+> Enter password: efgh
+
+> Do you wish to read all entries?(y/n): y
+
+> Username: hijk
+
+> Password: lmno
+
+> Username: hijk
+
+> Password: lmno
 
 #
 
